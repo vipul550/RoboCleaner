@@ -2,5 +2,5 @@
 
 
 
-echo "test";
+echo "test sementic version";
 ?>
