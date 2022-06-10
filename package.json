@@ -18,7 +18,7 @@
         "resolve-url-loader": "^3.1.0",
         "sass": "^1.15.2",
         "sass-loader": "^8.0.0",
-        "semantic-release": "^17.1.0"
+        "semantic-release": "^19.0.3"
     },
     "release": {
         "plugins": [
